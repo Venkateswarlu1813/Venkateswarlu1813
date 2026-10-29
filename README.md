@@ -6,7 +6,7 @@
 
 I build web applications with Python and JavaScript, and explore how data and AI can make everyday tools more useful.
 
-[Portfolio](https://venkateswarlu1813.github.io/Venkateswarlu_Portfolio/) · [LinkedIn](https://www.linkedin.com/in/venkateswarlu-vennampalli-045b99263/) · [Email](mailto:venkateswarlu4466@gmail.com)
+[Portfolio](https://github.com/Venkateswarlu1813/Venkateswarlu_Portfolio) · [LinkedIn](https://www.linkedin.com/in/venkateswarlu-vennampalli-045b99263/) · [Email](mailto:venkateswarlu4466@gmail.com)
 
 </div>
 
@@ -38,13 +38,23 @@ I'm expanding this portfolio with reproducible data science projects, grounded A
 | Task Manager | Application workflows and task tracking | [Repository](https://github.com/Venkateswarlu1813/Task-Manager_Project_Venkateswarlu_Vennampalli) |
 | Glaucoma Detection | Deep learning image classification experiment | [Repository](https://github.com/Venkateswarlu1813/Glaucoma_Detection_Project) |
 
-## Building next
+## Project Lab — 9 runnable demonstrations
 
-- **Data science:** churn classification, time-aware demand forecasting, customer segmentation.
-- **Generative AI:** document Q&A with citations, grounded support drafts, structured meeting actions.
-- **Full stack:** job application tracking, inventory operations, team task management.
+[Browse the complete collection](https://github.com/Venkateswarlu1813/portfolio-projects) · [Setup and quick start](https://github.com/Venkateswarlu1813/portfolio-projects#quick-start) · [Validation record](https://github.com/Venkateswarlu1813/portfolio-projects/blob/main/VALIDATION.md)
 
-These projects are under development; completed implementations and measured results will be linked here as they are verified.
+| Track | Project | What it demonstrates |
+| :--- | :--- | :--- |
+| Data science | [Churn Prediction](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/data-science/churn-prediction) | Leakage-aware preprocessing, validation-tuned thresholds, baseline comparisons |
+| Data science | [Demand Forecasting](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/data-science/demand-forecasting) | Time-based validation, lag features, rolling one-day-ahead evaluation |
+| Data science | [Customer Segmentation](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/data-science/customer-segmentation) | RFM features, cluster selection, stability and interpretable profiles |
+| GenAI | [Atlas / Document Q&A](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/genai/document-qa) | Retrieval, traceable sources, structured generated answers |
+| GenAI | [ReplyDesk / Support Drafts](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/genai/support-drafts) | Policy grounding and human-reviewed drafts |
+| GenAI | [Minute / Meeting Actions](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/genai/meeting-actions) | Structured extraction with verifiable transcript evidence |
+| Full stack | [CareerBoard](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/full-stack/job-tracker) | Sign-in, application stages, follow-ups, persistence and history |
+| Full stack | [Stockroom](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/full-stack/inventory) | Transactional stock movements, ledger and reorder alerts |
+| Full stack | [TeamFlow](https://github.com/Venkateswarlu1813/portfolio-projects/tree/main/projects/full-stack/team-tasks) | Workspace membership, task assignment and access checks |
+
+The collection includes **35 passing local automated checks**, runnable browser interfaces, setup guides, and measured synthetic examples. Data science examples use generated data; they are not real-world performance claims. GenAI projects include a clearly labelled offline mode and an optional OpenAI integration; live model calls require local API configuration and have not yet been verified. These are local portfolio demonstrations, not deployed production services.
 
 ## Let's connect
 
